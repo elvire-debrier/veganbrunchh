@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500i,700,900|Sen&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+
+body {
+font-family: 'Sen', sans-serif;
+font-size: 18px;
+margin: Opx;
+color: #754F44;
+}
+
+h1, h2, h3 {
+
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+}
+
+a {
+text-decoration: none;
+}
+
